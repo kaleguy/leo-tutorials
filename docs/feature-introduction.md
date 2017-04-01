@@ -12,7 +12,7 @@ to be in effect, three dimensional and arbitrarily complex.
 
 In the screenshot below, the "Coffeescript" node has been cloned and is appearing in two places in the tree. When you edit the content of the node and then click on its clone, you'll see that the edited content shows on both.
 
-<img width="500" height="350"  src="static/leo2.png" alt="ScreenShot">
+<img width="500" height="461"  src="static/leo2.png" alt="ScreenShot">
 
 # Leo Outlines can mirror other files
 
