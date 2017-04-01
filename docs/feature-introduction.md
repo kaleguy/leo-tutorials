@@ -3,7 +3,7 @@
 In the screenshot below, you can see an outline or tree in the top left pane, and content for 
 current node being entered into the bottom pane.
 
-<img width="500" height="350" src="static/leo1.png" alt="ScreenShot">
+<img width="500" height="461" src="static/leo1.png" alt="ScreenShot">
 
 # Leo Outlines can contain Cloned Nodes
 
