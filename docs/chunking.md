@@ -5,8 +5,8 @@ We've pasted the contents of the file into the node.
 
 <img width="500" src="leo4.png" alt="ScreenShot">
 
-This is a Vuejs component file, with three sections. We're going to break the sections out into 
-separate nodes. First create a section name using double angle brackets.
+This is a Vuejs component file, with three sections. We're going to break the 
+sections out into separate nodes. First create a section name using double angle brackets.
 
 <img width="500" src="leo5.png" alt="ScreenShot">
 
@@ -18,8 +18,7 @@ Enter Cmd-Shift-D to chunk the selected content into a subnode.
 
 <img width="500" src="leo7.png" alt="ScreenShot">
 
-Repeat this process with the other sections of the Vuejs component, now each
-has its own node. 
+Repeat this process with the other sections of the Vuejs component, now each has its own node. 
 
 <img width="500" src="leo8.png" alt="ScreenShot">
 
