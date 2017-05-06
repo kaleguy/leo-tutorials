@@ -1,7 +1,5 @@
 # Code Chunking
-
-In the screenshot below, we've created a new node with a @clean directive with a file name. 
-We've pasted the contents of the file into the node.
+In the screenshot below, we've created a new node with a @clean directive with a file name. We've pasted the contents of the file into the node.
 
 <img width="500" src="leo4.png" alt="ScreenShot">
 
