@@ -21,4 +21,6 @@ Repeat this process with the other sections of the Vuejs component, now each has
 
 This is a simple example, but using Leo it is possible to quickly break up a large, complex set of code into manageable pieces. The target file is not affected, and if the target file is changed in another program, Leo will update the appropriate nodes.
 
+<p></p><p></p>
 <p></p>
+
